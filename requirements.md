@@ -1,4 +1,4 @@
-# Requirements Document: AI-Powered Document Assistant
+# Requirements Document: AI-Powered Document Assistant - PaperGuard AI
 
 ## Introduction
 The AI-Powered Document Assistant is a mobile application designed to help Indians understand and manage official documents through AI-powered analysis, multimodal input/output, and voice-first interaction in their native language. The system addresses the critical problem of document confusion affecting 800M+ Indians who struggle with English and formal language in official papers, helping them avoid missing deadlines, understanding hidden clauses, and protecting against scams.
@@ -305,3 +305,4 @@ The AI-Powered Document Assistant is a mobile application designed to help India
 8. THE Document_Assistant SHALL offer a practice mode with sample documents
 9. WHEN a user seems stuck, THE Document_Assistant SHALL offer proactive help
 10. THE Document_Assistant SHALL allow skipping onboarding with option to revisit later
+
